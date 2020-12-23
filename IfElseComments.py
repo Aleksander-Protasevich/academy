@@ -3,6 +3,9 @@ a=int(t[0])
 b=int(t[1])
 c=int(t[2]) 
 # Пункт 1
-print('Нет нулевых значений' if a!=0 and b!=0 and c!=0 else "Вы ввели ноль")
-
+print(a!=0 and b!=0 and c!=0 and 'Нет нулевых значений')
+# Пункт 2
+print((a!=0 or b!=0 or c!=0) and (a or b or c))
+print(a==0 and b==0 and c==0 and 'Введены все нули')
+# Пункт 3
 
