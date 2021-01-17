@@ -61,26 +61,11 @@ nine4 = '      ' + b*2
 nine5 = b*8
 
 
-print(zero1, ' ', one1, ' ', two1, ' ', three1, ' ', four1, ' ', five1, ' ', six1, ' ', seven1, ' ', eight1, ' ', nine1)
-print(zero2, ' ', one2, ' ', two2, ' ', three2, ' ', four2, ' ', five2, ' ', six2, ' ', seven2, ' ', eight2, ' ', nine2)
-print(zero3, ' ', one3, ' ', two3, ' ', three3, ' ', four3, ' ', five3, ' ', six3, ' ', seven3, ' ', eight3, ' ', nine3)
-print(zero4, ' ', one4, ' ', two4, ' ', three4, ' ', four4, ' ', five4, ' ', six4, ' ', seven4, ' ', eight4, ' ', nine4)
-print(zero5, ' ', one5, ' ', two5, ' ', three5, ' ', four5, ' ', five5, ' ', six5, ' ', seven5, ' ', eight5, ' ', nine5)
+# print(zero1, ' ', one1, ' ', two1, ' ', three1, ' ', four1, ' ', five1, ' ', six1, ' ', seven1, ' ', eight1, ' ', nine1)
+# print(zero2, ' ', one2, ' ', two2, ' ', three2, ' ', four2, ' ', five2, ' ', six2, ' ', seven2, ' ', eight2, ' ', nine2)
+# print(zero3, ' ', one3, ' ', two3, ' ', three3, ' ', four3, ' ', five3, ' ', six3, ' ', seven3, ' ', eight3, ' ', nine3)
+# print(zero4, ' ', one4, ' ', two4, ' ', three4, ' ', four4, ' ', five4, ' ', six4, ' ', seven4, ' ', eight4, ' ', nine4)
+# print(zero5, ' ', one5, ' ', two5, ' ', three5, ' ', four5, ' ', five5, ' ', six5, ' ', seven5, ' ', eight5, ' ', nine5)
 
-# print(zero1)
-# print(zero2)
-# print(zero3)
-# print(zero4)
-# print(zero5)
-
-# print(one1)
-# print(one2)
-# print(one3)
-# print(one4)
-# print(one5)
-
-# print(two1)
-# print(two2)
-# print(two3)
-# print(two4)
-# print(two5)
+if __name__ == "__main__":
+    pass
